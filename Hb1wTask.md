@@ -10,6 +10,7 @@
 
 - 任务难度系数：★★★
 - 学习目标：理解 git 
+- 认领任务前请先阅读（https://github.com/runwithcc/HTWAAG/issues/10）
 
 ### （一）本周问题列表
 1. 用 500 字说说 Git 的前生今世。
