@@ -60,7 +60,8 @@
 
 ### （二）成果提交方法
 
-请在5月30日查看 [Issus](https://github.com/runwithcc/HTWAAG/issues)
+- 提交地点 [Issus#7](https://github.com/runwithcc/HTWAAG/issues/7)
+- 提交截止时间：2016年05月22日（周三）12：00 AM  
 
 [1]:	http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 [2]:	http://www.worldhello.net/gotgit/
