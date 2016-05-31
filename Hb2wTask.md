@@ -35,6 +35,8 @@
 - [Github 教程][1]
 - [Github Desktop 官方下载链接][2]
 - [如何高效地利用 Github - 阳志平][3]
+- [gitHub客户端Desktop的安装使用总结][6]
+
 
 ## 二、如何做任务
 
@@ -60,10 +62,10 @@
 ### （二）成果提交方法
 
 请在6月07日查看 [Issus][5]
-- 。。。
 
 [1]:	http://www.worldhello.net/gotgithub/
 [2]:	https://desktop.github.com/
 [3]:	http://www.yangzhiping.com/tech/github.html
 [4]:	https://github.com/runwithcc/HTWAAG/blob/master/HbEvaluate.md
 [5]:	https://github.com/runwithcc/HTWAAG/issues
+[6]:    http://m.blog.csdn.net/article/details?id=50261857
