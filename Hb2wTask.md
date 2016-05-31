@@ -19,7 +19,6 @@
 4. 如果要用 200 字向一个对 Github 完全陌生的人介绍它，要如何介绍？
 5. 通过 Github 的操作来说明工作区、暂存区、版本库之间的关系。
 6. 整理一份可供小白入门学习 Github 的简明手册。
-  		  
 ### （三）学习节奏说明
 
 - 2wd0 组内组织学习
@@ -34,34 +33,39 @@
  
 - [Github 教程][1]
 - [Github Desktop 官方下载链接][2]
-- [如何高效地利用 Github - 阳志平](http://www.yangzhiping.com/tech/github.html)
- 
+- [如何高效地利用 Github - 阳志平][3]
+	 
 ## 二、如何做任务
 
 ### （一）如何领取任务
 
 请各小组组长，自行在上方**本周问题列表**中至少任意 2 个任务（必选任务不在 2 个问题之中），并组织团队成员给出明确、详细、结构分明便于他组理解的问题答案。组长可以**自行发挥聪明才智**，充分调动全组的知识和主观能动性，让本组的答案变得丰满优质。
 
-> 组长请注意：为了获得更多的创意糖奖励积分（[阅读活动奖励机制][3]），请考虑本组选择任务的**策略**。
+> 组长请注意：为了获得更多的创意糖奖励积分（[阅读活动奖励机制][4]），请考虑本组选择任务的**策略**。
 
 - 认领方案：请各组组长复制分割线内的内容，在截止时间内填写本组要解决的问题序号发至微信群“”内。
 - 截止时间：**2016年06月04日 12:00**。
 
--------
+---- 
 - 小组名：XXXX
 - 我们组选择搞定的问题为：
 	- 第一题：给github写一份简介。
 	- 第五题：整理一份给小白学习的 Github操作指南。
 	- XXXXXX
-		
--------
+			 
+---- 
 
 > 注：为了避免各小组全部解答相同的2个问题，而降低活动交流学习的质量，请各小队组尽量选择与其他组不同的问题来解答，从而体现出每个小组独一无二的价值所在。此外我们也会随时根据各组的认领任务情况，“冻结”选择次数较多的问题。
 
 ### （二）成果提交方法
 
-请在6月07日查看 [Issus](https://github.com/runwithcc/HTWAAG/issues)
+请在6月07日查看 [Issus][5]
+
+### 测试
+-  yy 
 
 [1]:	http://www.worldhello.net/gotgithub/
 [2]:	https://desktop.github.com/
-[3]:    https://github.com/runwithcc/HTWAAG/blob/master/HbEvaluate.md
+[3]:	http://www.yangzhiping.com/tech/github.html
+[4]:	https://github.com/runwithcc/HTWAAG/blob/master/HbEvaluate.md
+[5]:	https://github.com/runwithcc/HTWAAG/issues
