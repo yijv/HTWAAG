@@ -19,6 +19,7 @@
 4. 如果要用 200 字向一个对 Github 完全陌生的人介绍它，要如何介绍？
 5. 通过 Github 的操作来说明工作区、暂存区、版本库之间的关系。
 6. 整理一份可供小白入门学习 Github 的简明手册。
+
 ### （三）学习节奏说明
 
 - 2wd0 组内组织学习
@@ -62,7 +63,6 @@
 请在6月07日查看 [Issus][5]
 
 ### 测试
--  yy 
 
 [1]:	http://www.worldhello.net/gotgithub/
 [2]:	https://desktop.github.com/
